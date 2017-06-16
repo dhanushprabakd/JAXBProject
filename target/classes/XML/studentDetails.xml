@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<student xmlns="http://tns.imcs.JAXB/Student">
+    <id>1</id>
+    <firstName>Dhanush</firstName>
+    <lastName>Prabakaran</lastName>
+    <Address>
+        <street>908 Greek Row</street>
+        <zipCode>76013</zipCode>
+        <country>USA</country>
+        <addressType>HOME</addressType>
+    </Address>
+    <Address>
+        <street>908 Greek Row</street>
+        <zipCode>76013</zipCode>
+        <country>USA</country>
+        <addressType>COMMUNICATION</addressType>
+    </Address>
+    <Marks>
+        <subject>Maths</subject>
+        <marks>60.0</marks>
+        <maxMark>100.0</maxMark>
+    </Marks>
+</student>
